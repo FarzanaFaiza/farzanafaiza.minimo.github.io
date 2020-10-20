@@ -1,0 +1,83 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+}
+
+nav{
+    width: 50%;
+    float: right;
+
+
+}
+
+nav ul{ 
+list-style: none;
+
+}
+
+nav ul li{float: left;margin-left: 95px;margin-top: 4px;}
+
+nav ul li a{text-decoration: none;color: #626262;text-transform: uppercase;font-weight: 400;font-size: 16px;}
+
+
+.banner{
+    width: 90%;
+    margin: auto;
+}
+
+.banner img{
+    width: 100%;
+    margin: auto;
+}
+
+.photodiary{
+    width: 80%;
+    margin: auto;
+    padding: 50px 0px;
+    font-family: "Playfair Display";
+}
+
+
+.photodiary h5{
+
+color: #b4ad9e;
+
+font-size: 14px;
+
+padding: 15px 0px;
+}
+
+.photodiary h1{
+
+font-size: 30px;
+
+color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+}
+.photodiary p{
+ color: #626262;
+ font-size: 14px;
+ margin-bottom: 20px;
+ text-align: justify;
+ line-height: 1.5;
+ 
+
+}
